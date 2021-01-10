@@ -1,0 +1,12 @@
+{
+    "name": "tsybenko/composer-webui",
+    "type": "project",
+    "license": "",
+    "authors": [
+        {
+            "name": "Dmytro Tsybenko",
+            "email": "tsybenko.dmitry@gmail.com"
+        }
+    ],
+    "require": {}
+}
